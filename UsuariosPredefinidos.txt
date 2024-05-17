@@ -1,0 +1,7 @@
+--------Usuarios Predefinidos----------------------
+Usuario: Administrador|Contraseña: admin
+	Muestra la interfaz del jefe de mantenimiento.
+Usuario: JefeDpto|Contraseña: admin
+	Muestra la interfaz del jefe de mantenimiento
+Usuario: Recursos|Contraseña: admin
+	Muestra la interfaz de Recursos Materiales
